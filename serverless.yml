@@ -73,7 +73,7 @@ functions:
             summary: Create a new group
             description: Create a new group
             requestModels: 
-              'application/json': 
+              'application/json': GroupRequest
                 
   CreateImage:
     handler: src/lambda/http/createImage.handler
