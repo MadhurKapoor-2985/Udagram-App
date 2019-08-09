@@ -10,7 +10,8 @@
     "elasticsearch": "^15.4.1",
     "http-aws-es": "^6.0.0",
     "source-map-support": "^0.5.10",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "jimp": "^0.6.1"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.17",
