@@ -10,6 +10,7 @@
     "elasticsearch": "^15.4.1",
     "http-aws-es": "^6.0.0",
     "source-map-support": "^0.5.10",
+    "jsonwebtoken": "^8.5.1",
     "uuid": "^3.3.2",
     "jimp": "^0.6.1"
   },
@@ -17,6 +18,7 @@
     "@types/aws-lambda": "^8.10.17",
     "@types/node": "^10.12.18",
     "@types/elasticsearch": "^5.0.32",
+    "@types/jsonwebtoken": "^8.3.2",
     "aws-sdk": "^2.497.0",
     "serverless-aws-documentation": "^1.1.0",
     "serverless-reqvalidator-plugin": "^1.0.3",

@@ -24,6 +24,7 @@ provider:
     CONNECTIONS_TABLE: Connections-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 300
     THUMBNAILS_S3_BUCKET: srvrless-udagram-thumbnail-mk9239-${self:provider.stage}
+    AUTH_0_SECRET: AavijAgL6QLCnp3odKwcHHKCbdsSPTDKmZcYxmLA9jWGaKgUc5CVJyDdbZwssWXn
 
   iamRoleStatements:
     - Effect: Allow
